@@ -1,0 +1,10 @@
+C:\Users\aswitalski\Desktop\rust\learnrust\flappy\target\debug\deps\libbracket_random-07e08ab6cb9e7e3e.rmeta: C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\lib.rs C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\random.rs C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\parsing.rs C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\iterators.rs
+
+C:\Users\aswitalski\Desktop\rust\learnrust\flappy\target\debug\deps\libbracket_random-07e08ab6cb9e7e3e.rlib: C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\lib.rs C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\random.rs C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\parsing.rs C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\iterators.rs
+
+C:\Users\aswitalski\Desktop\rust\learnrust\flappy\target\debug\deps\bracket_random-07e08ab6cb9e7e3e.d: C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\lib.rs C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\random.rs C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\parsing.rs C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\iterators.rs
+
+C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\lib.rs:
+C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\random.rs:
+C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\parsing.rs:
+C:\Users\aswitalski\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-random-0.8.7\src\iterators.rs:
